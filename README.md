@@ -1,75 +1,166 @@
-<h1 align="center">Hi, I'm Ally Yahya</h1>
+<h1 align="center">Hi 👋, I'm Ally Yahya</h1>
+
+<h3 align="center">
+Full-Stack Software Engineer • Problem Solver • Builder of Practical Digital Solutions
+</h3>
 
 <p align="center">
-  <strong>software engineer</strong> building reliable, useful, and human-centered technology.
+  <a href="https://github.com/Binyahya99">
+    <img src="https://komarev.com/ghpvc/?username=Binyahya99&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+
+  <a href="https://github.com/Binyahya99?tab=followers">
+    <img src="https://img.shields.io/github/followers/Binyahya99?label=Followers&style=flat&logo=github" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/aliy-yahya-583baa40b
-"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mail to: aliyyahya99@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/aliy-yahya-583baa40b">
+    <img alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:aliyyahya99@gmail.com">
+    <img alt="Email"
+    src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://github.com/Binyahya99">
+    <img alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
-
-I'm a software engineer focused on turning ideas into clean, maintainable, production-ready systems. My work combines technical problem-solving, continuous learning, and a practical eye for products that create real impact.
-
-## Professional Focus
-
-- Building scalable software solutions for real-world problems
-- Turning ideas into clean, maintainable, production-ready systems
-- Learning fast, documenting clearly, and improving with every project
-- Using AI tools thoughtfully to research, prototype, debug, document, and ship better work
-
-## What I Work With
-
-**Languages:** JavaScript, Python, Java, C#,SQL.  
-**Frontend:** React,Next.js,Tailwind CSS,HTML,CSS  
-**Backend:** Node.js,Express,Django,FastAPI,python.  
-**Databases:** PostgreSQL,MySQL,MongoDB, Firebase.  
-**Tools:** Git, GitHub, VS Code, Postman, Figma, Notion
-
-## Featured Work
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [ZanSchool](https://github.com/Binyahya99/ZanSchool) | Website for managing school activities online. | Tech stack |
-| [ZanRahisi](https://github.com/Binyahya99/ZanRahisi) | website  aims to provide a practical digital solution for local commerce and delivery services
-in Zanzibar.. | Tech stack |
-
-
-## Selected Impact
-
-- Built **ZanRahisi**, a digital platform focused on simplifying user access to important services and improving everyday digital experiences
-- Developed **ZanSchool**, a school management application designed to support student management, academic records, and administrative activities
-- Strengthened practical software engineering skills through real-world project development, including planning, system design, database management, debugging, testing, and deployment workflows
-- Collaborated with peers, students, and academic communities during project planning, implementation, and continuous improvement processes
 
 ---
 
-## Career Snapshot
+## 🚀 About Me
 
-- **Current focus:** Building scalable and user-friendly software solutions while advancing skills in software engineering and full-stack web development
-- **Strengths:** Problem-solving, fast learning, system analysis, communication, adaptability, and project ownership
-- **Interests:** Software engineering, education technology, web applications, database systems, AI-assisted development, and digital innovation
-- **Open to:** Collaboration, internships, freelance opportunities, software development projects, and technical partnerships
-## GitHub Activity
+I'm a full-stack software engineer passionate about building scalable, human-centered digital products that solve real-world problems.
 
-Replace `your-username` below with your GitHub username.
-
-<p>
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Binyahya99&show_icons=true&theme=default&hide_border=true">
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binyahya99&layout=compact&hide_border=true">
-</p>
-
-## How I Work
-
-I value simple architecture, readable code, thoughtful collaboration, and steady improvement. I enjoy breaking down complex problems, learning from feedback, and shipping work that people can trust.
-
-## Let's Connect
-
-- LinkedIn: linkedin.com/in/www.linkedin.com/in/aliy-yahya-583baa40b
-- Email: aliyyahya99@gmai.com (mail to:aliyyahya99@gmai.com)
+I enjoy transforming ideas into clean, maintainable, and production-ready systems while continuously improving my skills in software engineering, system design, and modern web technologies.
 
 ---
 
-Thanks for visiting my profile. I'm always learning, building, and looking for meaningful ways to contribute.
+## 🎯 Professional Focus
 
+- Building scalable software solutions for real-world challenges
+- Designing clean, maintainable, and user-friendly systems
+- Learning rapidly and improving through practical project development
+- Using AI tools effectively for research, prototyping, debugging, testing, and documentation
+- Creating technology that delivers measurable value to users
+
+---
+
+# 🛠️ Tech Stack
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+<h3 align="center">🛠️ Tools</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description |
+|---|---|
+| [ZanSchool](https://github.com/Binyahya99/ZanSchool) | School management platform designed to streamline student records, academic management, and administrative workflows. |
+| [ZanRahisi](https://github.com/Binyahya99/ZanRahisi) | Digital platform focused on simplifying access to local commerce and delivery services in Zanzibar. |
+
+---
+
+# 📈 Selected Impact
+
+- Built practical digital solutions addressing real-world educational and local commerce challenges
+- Strengthened expertise in system design, database architecture, debugging, testing, and deployment workflows
+- Applied modern full-stack technologies to develop scalable and maintainable applications
+- Collaborated effectively with peers and academic communities during project planning and implementation
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Binyahya99&show_icons=true&theme=radical"
+    height="180em"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binyahya99&layout=compact&theme=radical"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Binyahya99&theme=radical"
+  />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aliy-yahya-583baa40b">
+    <img src="https://img.shields.io/badge/LinkedIn-Ally%20Yahya-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:aliyyahya99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🚀 <br>
+  I'm continuously learning, building, and creating technology that makes an impact.
+</p>
