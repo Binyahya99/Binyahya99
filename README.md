@@ -128,20 +128,19 @@ I enjoy transforming ideas into clean, maintainable, and production-ready system
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Binyahya99&show_icons=true&theme=radical"
     height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Binyahya99&theme=tokyonight"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binyahya99&layout=compact&theme=radical"
     height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Binyahya99&theme=tokyonight"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Binyahya99&theme=radical"
-  />
+    src="https://streak-stats.demolab.com?user=Binyahya99&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
